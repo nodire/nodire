@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @nodire
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## рџљЂ System programmer
 
-<!---
-nodire/nodire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Technical skills:
+ - [x] Linux based OS
+ - [x] Windows OS
+ - [x] BASH Scripts
+ - [x] Network configuration
+ - [x] Software development (Golang + TypeScript)
+ - [x] Microcontroller programming (Arduino + ESP32)
+
+<img src="https://go.dev/images/gophers/ladder.svg" width="60">
+
+[рџЊЋMy site](https://www.nodir.net/ref=github) | [рџ“Ёnorboyev@nodir.net](mailto:norboyev@nodir.net)
