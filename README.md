@@ -4,7 +4,7 @@
  - [x] System programmer (BASH + C)
  - [x] Software engineering (Golang + Angular)
  - [x] Linux engineer
- - [x] Network engineer (✔ Cisco certifications)
+ - [x] Network engineer (✔Cisco certifications)
  - [x] Microcontroller programming (Arduino + ESP32)
 
 <img src="https://go.dev/images/gophers/ladder.svg" width="60">
