@@ -1,4 +1,4 @@
-## 🚀System programmer
+## 💻System programmer
 
 ### Technical skills:
  - [x] Linux based OS
