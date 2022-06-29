@@ -1,4 +1,4 @@
-## рџљЂ System programmer
+## 🚀System programmer
 
 ### Technical skills:
  - [x] Linux based OS
@@ -10,4 +10,4 @@
 
 <img src="https://go.dev/images/gophers/ladder.svg" width="60">
 
-[рџЊЋMy site](https://www.nodir.net/ref=github) | [рџ“Ёnorboyev@nodir.net](mailto:norboyev@nodir.net)
+[🌎My site](https://www.nodir.net/ref=github) | [📧norboyev@nodir.net](mailto:norboyev@nodir.net)
