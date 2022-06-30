@@ -1,7 +1,7 @@
 ## 💻System programmer
 
 ### Technical skills:
- - [x] System programmer (BASH + C)
+ - [x] System programming (BASH + C)
  - [x] Software engineering (Golang + Angular)
  - [x] Linux engineer
  - [x] Network engineer (✔Cisco certifications)
