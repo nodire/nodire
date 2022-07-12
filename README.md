@@ -11,4 +11,4 @@
 
 <hr />
 
-[🌎My site](https://www.nodir.net/ref=github) | [📧norboyev@nodir.net](mailto:norboyev@nodir.net)
+[🌎My site](https://www.nodir.net/?ref=Github) | [📧norboyev@nodir.net](mailto:norboyev@nodir.net)
